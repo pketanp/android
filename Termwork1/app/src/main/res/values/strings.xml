@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Termwork1</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="display_message">Display Message</string>
+</resources>
