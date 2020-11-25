@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TermWork2</string>
+    <string name="simple_calculator">Simple Calculator</string>
+    <string name="enter_first_no">Enter First No.</string>
+    <string name="enter_second_no">Enter Second No.</string>
+    <string name="add">Add</string>
+    <string name="substract">Substract</string>
+    <string name="divide">Divide</string>
+    <string name="multiply">Multiply</string>
+</resources>
