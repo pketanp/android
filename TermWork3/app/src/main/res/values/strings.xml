@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TermWork3</string>
+    <string name="add">Add</string>
+    <string name="title">Title</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+</resources>
