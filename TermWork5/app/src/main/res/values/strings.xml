@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TermWork6</string>
+    <string name="enter_your_pin">Enter your PIN</string>
+    <string name="login">Login</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="register">Register</string>
+    <string name="enter_user_nsme">Enter User Nsme</string>
+</resources>
